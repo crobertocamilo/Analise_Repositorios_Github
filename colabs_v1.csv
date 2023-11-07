@@ -1,0 +1,143 @@
+Owner,Name,Stars,URL,Created Date,Branch Count,Forks Count,Languages,Languages Proportions
+openSUSE,artwork,149.0,https://github.com/openSUSE/artwork,2011-11-04,6.0,63.0,"['HTML', 'Python']","{'HTML': 0.755131189166314, 'Python': 0.244868810833686}"
+LeeHyeJin91,Neural_CF,22.0,https://github.com/LeeHyeJin91/Neural_CF,2020-08-12,1.0,8.0,"['Jupyter Notebook', 'Python']","{'Jupyter Notebook': 0.6524813113572908, 'Python': 0.3475186886427092}"
+IFRA-Cranfield,ros2_RobotSimulation,85.0,https://github.com/IFRA-Cranfield/ros2_RobotSimulation,2022-07-22,2.0,29.0,"['Python', 'C++', 'CMake']","{'Python': 0.6452850431048084, 'C++': 0.30639704917651633, 'CMake': 0.04831790771867532}"
+hotosm,osm-tasking-manager2,426.0,https://github.com/hotosm/osm-tasking-manager2,2013-02-02,20.0,156.0,"['JavaScript', 'Python', 'CSS', 'Mako', 'HTML', 'Shell']","{'JavaScript': 0.29379202440014657, 'Python': 0.2798478456769951, 'CSS': 0.2750933325411208, 'Mako': 0.14275422595882475, 'HTML': 0.006819217095946842, 'Shell': 0.001693354326965925}"
+cisagov,tic3.0,11.0,https://github.com/cisagov/tic3.0,2019-04-24,2.0,7.0,[],{}
+nfeiglin,collab-consumption,23.0,https://github.com/nfeiglin/collab-consumption,2014-03-01,1.0,10.0,"['PHP', 'JavaScript', 'CSS']","{'PHP': 0.8866928124878655, 'JavaScript': 0.08149952016685989, 'CSS': 0.03180766734527461}"
+i40-Tools,I40KG,62.0,https://github.com/i40-Tools/I40KG,2017-03-24,5.0,24.0,"['HTML', 'JavaScript', 'CSS', 'Shell']","{'HTML': 0.8930083941772037, 'JavaScript': 0.048080571957679986, 'CSS': 0.041587607583600236, 'Shell': 0.017323426281516112}"
+pauliceia,pauliceia,8.0,https://github.com/pauliceia/pauliceia,2017-08-21,14.0,14.0,"['Vue', 'JavaScript', 'CSS', 'HTML']","{'Vue': 0.7452650029092015, 'JavaScript': 0.20742003317214022, 'CSS': 0.04094610613636309, 'HTML': 0.006368857782295155}"
+cseagle,collabREate,98.0,https://github.com/cseagle/collabREate,2014-05-27,3.0,21.0,"['C++', 'Java', 'C', 'Shell', 'Roff', 'PLpgSQL', 'Makefile']","{'C++': 0.5865565543370663, 'Java': 0.24910249000713647, 'C': 0.11978956525742755, 'Shell': 0.024811622860424626, 'Roff': 0.008417147378228825, 'PLpgSQL': 0.005682513488396889, 'Makefile': 0.0056401066713193}"
+AlgorithmFan,PLSA,2.0,https://github.com/AlgorithmFan/PLSA,2014-10-20,1.0,4.0,['Python'],{'Python': 1.0}
+GingerKiwi,alice-game,8.0,https://github.com/GingerKiwi/alice-game,2022-10-29,3.0,11.0,"['Python', 'HTML', 'CSS', 'JavaScript']","{'Python': 0.5352765412525154, 'HTML': 0.3133117873041039, 'CSS': 0.08616379047502896, 'JavaScript': 0.06524788096835173}"
+Vanlightly,Rebalanser,17.0,https://github.com/Vanlightly/Rebalanser,2018-07-10,1.0,5.0,['C#'],{'C#': 1.0}
+SeeSharpOpenSource,JLab,19.0,https://github.com/SeeSharpOpenSource/JLab,2018-07-27,2.0,12.0,['C#'],{'C#': 1.0}
+bdamele,unix-privesc-check,83.0,https://github.com/bdamele/unix-privesc-check,2015-03-17,2.0,28.0,['Shell'],{'Shell': 1.0}
+kathyhernndez,portfolio_say_my_brand,4.0,https://github.com/kathyhernndez/portfolio_say_my_brand,2021-11-18,2.0,2.0,"['Python', 'CSS', 'JavaScript', 'HTML']","{'Python': 0.4559879625196635, 'CSS': 0.25565966760139525, 'JavaScript': 0.18035702072361673, 'HTML': 0.10799534915532454}"
+KSP-RO,GoForLaunch,2.0,https://github.com/KSP-RO/GoForLaunch,2016-02-29,1.0,2.0,[],{}
+SF001User,Group0_Project,0.0,https://github.com/SF001User/Group0_Project,2020-11-01,19.0,2.0,"['Java', 'HTML']","{'Java': 0.9520999652898299, 'HTML': 0.04790003471017008}"
+NhaPhatHanh,github,18.0,https://github.com/NhaPhatHanh/github,2021-04-28,1.0,16.0,[],{}
+azitahk,SQL-Team,2.0,https://github.com/azitahk/SQL-Team,2020-08-28,1.0,0.0,"['Jupyter Notebook', 'HTML', 'Python', 'PHP', 'Shell']","{'Jupyter Notebook': 0.9814667511644621, 'HTML': 0.014493613703423823, 'Python': 0.0033152944089188284, 'PHP': 0.0007077121482825453, 'Shell': 1.662857491265379e-05}"
+QuTech-Delft,cQASM-spec,3.0,https://github.com/QuTech-Delft/cQASM-spec,2018-12-12,2.0,0.0,[],{}
+kihongmin,NCF,2.0,https://github.com/kihongmin/NCF,2020-06-09,1.0,0.0,"['Jupyter Notebook', 'Python']","{'Jupyter Notebook': 0.6703281519861831, 'Python': 0.32967184801381694}"
+jaityron,new-pac-wiki,26.0,https://github.com/jaityron/new-pac-wiki,2019-03-18,1.0,28.0,[],{}
+arnaud33200,HexaCodeColorConverter,0.0,https://github.com/arnaud33200/HexaCodeColorConverter,2015-12-08,1.0,2.0,['HTML'],{'HTML': 1.0}
+jorgeatorres,vertex,2.0,https://github.com/jorgeatorres/vertex,2010-02-10,2.0,0.0,"['JavaScript', 'HTML', 'Python', 'CSS']","{'JavaScript': 0.5354280184837336, 'HTML': 0.31825104829125506, 'Python': 0.11801922542876019, 'CSS': 0.02830170779625116}"
+hypergraphdb,owl,3.0,https://github.com/hypergraphdb/owl,2015-07-08,4.0,2.0,"['Java', 'Shell']","{'Java': 0.9993966578677766, 'Shell': 0.0006033421322233862}"
+oxenprogrammer,thenextweb-clone,7.0,https://github.com/oxenprogrammer/thenextweb-clone,2020-11-30,16.0,0.0,"['HTML', 'CSS']","{'HTML': 0.701816347124117, 'CSS': 0.29818365287588294}"
+hemanishah00,-Restaurant-Recommendation-System-using-the-Yelp-dataset,0.0,https://github.com/hemanishah00/-Restaurant-Recommendation-System-using-the-Yelp-dataset,2022-04-03,1.0,2.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+SteveGaleGordon,industry4.0,0.0,https://github.com/SteveGaleGordon/industry4.0,2019-03-07,1.0,0.0,['PHP'],{'PHP': 1.0}
+tonyahowe,NiC,3.0,https://github.com/tonyahowe/NiC,2014-10-07,1.0,4.0,"['XQuery', 'HTML', 'CSS', 'XSLT', 'JavaScript']","{'XQuery': 0.37600087448419095, 'HTML': 0.2771459022217364, 'CSS': 0.25512529718798677, 'XSLT': 0.08052906293553412, 'JavaScript': 0.011198863170551744}"
+agno3xzy,OnlineDocs,1.0,https://github.com/agno3xzy/OnlineDocs,2019-04-25,1.0,0.0,"['JavaScript', 'Java', 'CSS', 'TSQL']","{'JavaScript': 0.6644741889016113, 'Java': 0.2950753066390879, 'CSS': 0.03690607766201369, 'TSQL': 0.0035444267972871996}"
+GeoNode,geonode-api,1.0,https://github.com/GeoNode/geonode-api,2018-03-28,1.0,1.0,[],{}
+yo1000,kc4-boot2,0.0,https://github.com/yo1000/kc4-boot2,2018-06-16,1.0,0.0,"['Kotlin', 'Shell']","{'Kotlin': 0.5095340501792115, 'Shell': 0.4904659498207885}"
+jayarajvemula,bits-osseproject-group52,1.0,https://github.com/jayarajvemula/bits-osseproject-group52,2021-04-10,7.0,2.0,"['PowerShell', 'Java']","{'PowerShell': 0.7786885245901639, 'Java': 0.22131147540983606}"
+revagomes,p2-dev,0.0,https://github.com/revagomes/p2-dev,2022-12-02,1.0,0.0,"['JavaScript', 'CSS', 'PHP', 'SCSS', 'Twig', 'Makefile', 'Gherkin']","{'JavaScript': 0.5802025712518267, 'CSS': 0.19708896280291552, 'PHP': 0.1423478810482244, 'SCSS': 0.05765704987403735, 'Twig': 0.015219739826610843, 'Makefile': 0.004976869491935701, 'Gherkin': 0.002506925704449485}"
+lluissalord,radiology_ai,6.0,https://github.com/lluissalord/radiology_ai,2020-09-02,9.0,0.0,"['Jupyter Notebook', 'Python', 'Mako']","{'Jupyter Notebook': 0.9891919586655945, 'Python': 0.010643785865900953, 'Mako': 0.00016425546850459155}"
+CatCora98,Automated-Resume-Screening-System,3.0,https://github.com/CatCora98/Automated-Resume-Screening-System,2020-11-13,1.0,2.0,"['Python', 'Dockerfile']","{'Python': 0.991858328581385, 'Dockerfile': 0.008141671418614965}"
+raveenb,bounce_hackathon_10,1.0,https://github.com/raveenb/bounce_hackathon_10,2019-07-27,19.0,1.0,"['Jupyter Notebook', 'Python', 'JavaScript', 'HTML']","{'Jupyter Notebook': 0.9851197410756006, 'Python': 0.007984436015650563, 'JavaScript': 0.0061318838863615235, 'HTML': 0.0007639390223872331}"
+alanpurple,NCF_TF20,1.0,https://github.com/alanpurple/NCF_TF20,2019-03-25,1.0,1.0,['Python'],{'Python': 1.0}
+lucasvenez,bpd4cd,5.0,https://github.com/lucasvenez/bpd4cd,2015-01-24,1.0,0.0,"['Java', 'R']","{'Java': 0.9654909695633678, 'R': 0.03450903043663225}"
+all-laugh,movie-recommender-collaborative,0.0,https://github.com/all-laugh/movie-recommender-collaborative,2020-12-31,1.0,0.0,['Java'],{'Java': 1.0}
+ToferC,GC2.0-Tools,0.0,https://github.com/ToferC/GC2.0-Tools,2015-01-19,1.0,0.0,[],{}
+chikitang,A,8.0,https://github.com/chikitang/A,2022-06-08,1.0,3.0,[],{}
+rkempter,collaborative-filtering-recommander,4.0,https://github.com/rkempter/collaborative-filtering-recommander,2013-07-23,1.0,2.0,['Java'],{'Java': 1.0}
+corwin-of-amber,Web.P2P.CM6-AM1,0.0,https://github.com/corwin-of-amber/Web.P2P.CM6-AM1,2021-10-16,1.0,0.0,"['TypeScript', 'HTML']","{'TypeScript': 0.9931942919868276, 'HTML': 0.006805708013172338}"
+AaronRebel09,webpageCosmo,1.0,https://github.com/AaronRebel09/webpageCosmo,2017-11-20,7.0,0.0,"['HTML', 'JavaScript']","{'HTML': 0.9261397209217763, 'JavaScript': 0.07386027907822372}"
+SkDevilS,727702-U8XA16B0_IEMHACK2.0,0.0,https://github.com/SkDevilS/727702-U8XA16B0_IEMHACK2.0,2023-08-26,1.0,0.0,"['HTML', 'CSS']","{'HTML': 0.5190071202531645, 'CSS': 0.48099287974683547}"
+mrinalkumar-laddcs,NSF-NRI3-0-Wildfire-UAS,1.0,https://github.com/mrinalkumar-laddcs/NSF-NRI3-0-Wildfire-UAS,2021-09-27,1.0,0.0,['MATLAB'],{'MATLAB': 1.0}
+mesonepigreco,WOWIE4_falling_world,0.0,https://github.com/mesonepigreco/WOWIE4_falling_world,2022-08-12,2.0,0.0,['JavaScript'],{'JavaScript': 1.0}
+OrigamiOfCode,Origami-of-Code-debut,0.0,https://github.com/OrigamiOfCode/Origami-of-Code-debut,2017-09-08,1.0,0.0,"['JavaScript', 'HTML', 'CSS', 'Ruby', 'Makefile']","{'JavaScript': 0.46060613513026083, 'HTML': 0.32897627596609447, 'CSS': 0.20921253258570655, 'Ruby': 0.0006599117931565917, 'Makefile': 0.0005451445247815323}"
+iamdanielyun,Data-Day-Grind-2.0-Project,0.0,https://github.com/iamdanielyun/Data-Day-Grind-2.0-Project,2021-10-08,1.0,0.0,"['JavaScript', 'CSS', 'HTML', 'Python']","{'JavaScript': 0.5639435031145061, 'CSS': 0.38661691574171386, 'HTML': 0.047850285816820895, 'Python': 0.0015892953269590628}"
+FIU-SCIS-Senior-Projects,Next-Generation-Networking-for-Virtual-Reality-and-Game-Player-Collaborative-and-Multi-Player-1.0,0.0,https://github.com/FIU-SCIS-Senior-Projects/Next-Generation-Networking-for-Virtual-Reality-and-Game-Player-Collaborative-and-Multi-Player-1.0,2017-02-03,1.0,0.0,[],{}
+abonyilab,HCKG,0.0,https://github.com/abonyilab/HCKG,2023-08-21,1.0,0.0,['HTML'],{'HTML': 1.0}
+dilanpatel20,Website-1.1,0.0,https://github.com/dilanpatel20/Website-1.1,2023-04-30,1.0,0.0,"['HTML', 'CSS', 'SCSS', 'JavaScript']","{'HTML': 0.6193397278608075, 'CSS': 0.2875306714253848, 'SCSS': 0.08426277046620567, 'JavaScript': 0.008866830247602053}"
+ayaanwhy,collabor8,0.0,https://github.com/ayaanwhy/collabor8,2023-05-10,1.0,0.0,"['EJS', 'JavaScript', 'CSS']","{'EJS': 0.5048727515732027, 'JavaScript': 0.437545246978894, 'CSS': 0.057582001447903326}"
+DayZmooN,GiteFinder,0.0,https://github.com/DayZmooN/GiteFinder,2023-10-09,1.0,0.0,"['SCSS', 'CSS', 'HTML', 'Twig', 'JavaScript', 'PHP']","{'SCSS': 0.25147133630091184, 'CSS': 0.19770774936489896, 'HTML': 0.1954843296457472, 'Twig': 0.13461274307804008, 'JavaScript': 0.112328734039454, 'PHP': 0.10839510757094792}"
+daabChingrii,H4Bgitmatch,2.0,https://github.com/daabChingrii/H4Bgitmatch,2023-07-09,1.0,1.0,"['JavaScript', 'CSS', 'Python', 'HTML', 'Shell']","{'JavaScript': 0.6064713352888949, 'CSS': 0.21238072760376278, 'Python': 0.157681198511975, 'HTML': 0.01984782584263349, 'Shell': 0.0036189127527338524}"
+ashishrp96,Hybrid-Movie-Recommendation-Engine,2.0,https://github.com/ashishrp96/Hybrid-Movie-Recommendation-Engine,2021-09-23,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+chance-english,ejscreen-group-19,0.0,https://github.com/chance-english/ejscreen-group-19,2021-11-16,1.0,0.0,[],{}
+ZimmardiTj,Clype2.0,0.0,https://github.com/ZimmardiTj/Clype2.0,2020-02-12,1.0,0.0,['Java'],{'Java': 1.0}
+Shalini-Kasoji,Census_Data,0.0,https://github.com/Shalini-Kasoji/Census_Data,2020-08-14,1.0,0.0,[],{}
+SaboohTaha,E-Commerce-Website-in-Ruby-on-Rails,0.0,https://github.com/SaboohTaha/E-Commerce-Website-in-Ruby-on-Rails,2023-05-28,1.0,0.0,"['Ruby', 'HTML', 'JavaScript']","{'Ruby': 0.5149445075271968, 'HTML': 0.4735266107468591, 'JavaScript': 0.011528881725944105}"
+Anurag4732,Recommendation-System-,0.0,https://github.com/Anurag4732/Recommendation-System-,2020-05-29,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+Lechevallier,RealTimeSubtitles,0.0,https://github.com/Lechevallier/RealTimeSubtitles,2016-01-12,1.0,0.0,"['JavaScript', 'CSS', 'HTML', 'PHP']","{'JavaScript': 0.44288087093803447, 'CSS': 0.3998141691882647, 'HTML': 0.15499934219181685, 'PHP': 0.0023056176818839627}"
+RyokaL,CS2101-P2PFileSharingProtocol,0.0,https://github.com/RyokaL/CS2101-P2PFileSharingProtocol,2020-05-02,1.0,0.0,['Java'],{'Java': 1.0}
+Fazx,SdusterBlog,0.0,https://github.com/Fazx/SdusterBlog,2018-11-02,1.0,0.0,"['JavaScript', 'CSS', 'HTML', 'PHP']","{'JavaScript': 0.474187463177069, 'CSS': 0.2280440740080105, 'HTML': 0.2069705470603815, 'PHP': 0.09079791575453902}"
+RaikoPipe,PipeLab,0.0,https://github.com/RaikoPipe/PipeLab,2020-11-10,6.0,0.0,['Python'],{'Python': 1.0}
+juandanielhb,reddinamica-api,1.0,https://github.com/juandanielhb/reddinamica-api,2019-03-14,10.0,0.0,"['JavaScript', 'HTML']","{'JavaScript': 0.9890462700661001, 'HTML': 0.010953729933899906}"
+kaushikkaralgikar,Recommendation-Systems,0.0,https://github.com/kaushikkaralgikar/Recommendation-Systems,2020-09-22,1.0,0.0,['Python'],{'Python': 1.0}
+GadWissberg,shared-story-client,0.0,https://github.com/GadWissberg/shared-story-client,2020-02-07,1.0,0.0,['Java'],{'Java': 1.0}
+mohnish,ideyeah,0.0,https://github.com/mohnish/ideyeah,2012-06-05,1.0,0.0,"['PHP', 'JavaScript']","{'PHP': 0.9894193319543023, 'JavaScript': 0.01058066804569767}"
+starfalling,php-simple-collaborative-filtering,1.0,https://github.com/starfalling/php-simple-collaborative-filtering,2017-03-19,1.0,0.0,['PHP'],{'PHP': 1.0}
+andynapoleon,DevelopEdMapColoring,1.0,https://github.com/andynapoleon/DevelopEdMapColoring,2023-09-16,5.0,0.0,"['Python', 'TypeScript', 'JavaScript', 'CSS']","{'Python': 0.4855471901048669, 'TypeScript': 0.45764990588867976, 'JavaScript': 0.03085506856681904, 'CSS': 0.02594783543963431}"
+GadWissberg,shared-story-server,0.0,https://github.com/GadWissberg/shared-story-server,2020-02-07,1.0,0.0,['Python'],{'Python': 1.0}
+klonnet23,helloy-word,23.0,https://github.com/klonnet23/helloy-word,2019-06-13,1.0,40.0,[],{}
+akshataasheth,Recommendation-System,0.0,https://github.com/akshataasheth/Recommendation-System,2020-09-26,1.0,0.0,['Python'],{'Python': 1.0}
+HrithikRai,RecommenderSystemUsingPyspark,0.0,https://github.com/HrithikRai/RecommenderSystemUsingPyspark,2022-06-24,1.0,0.0,['Python'],{'Python': 1.0}
+tsh61,Android-Photo-Album,0.0,https://github.com/tsh61/Android-Photo-Album,2020-12-12,1.0,0.0,['Java'],{'Java': 1.0}
+RENCI-NRIG,django-comanage-docker,1.0,https://github.com/RENCI-NRIG/django-comanage-docker,2018-09-01,1.0,2.0,"['Python', 'HTML', 'Shell', 'Dockerfile']","{'Python': 0.7465259683863124, 'HTML': 0.17743616466909848, 'Shell': 0.06500781657113079, 'Dockerfile': 0.0110300503734584}"
+balvara1,AWS-Cloud-Web-App,0.0,https://github.com/balvara1/AWS-Cloud-Web-App,2022-02-10,1.0,0.0,"['HTML', 'C#', 'CSS', 'JavaScript']","{'HTML': 0.5000317270962092, 'C#': 0.48001827480741655, 'CSS': 0.01708186859905834, 'JavaScript': 0.0028681294973158878}"
+KapilKhare,Movie-Recommendation-System,0.0,https://github.com/KapilKhare/Movie-Recommendation-System,2021-08-20,0.0,0.0,[],{}
+LUKEINTERNATIONAL,DHIS2-Android-Tracker-App,0.0,https://github.com/LUKEINTERNATIONAL/DHIS2-Android-Tracker-App,2019-03-18,4.0,0.0,"['Java', 'Shell']","{'Java': 0.9995917818406209, 'Shell': 0.00040821815937912867}"
+juanpabloxk,Collece2.0-TeamBE,0.0,https://github.com/juanpabloxk/Collece2.0-TeamBE,2020-10-16,1.0,0.0,[],{}
+vkutuyev,CodeBoard,0.0,https://github.com/vkutuyev/CodeBoard,2016-06-27,2.0,0.0,"['JavaScript', 'CSS', 'HTML']","{'JavaScript': 0.6598975269182503, 'CSS': 0.19432446111500143, 'HTML': 0.14577801196674825}"
+mananrajn,CuckooSearch,0.0,https://github.com/mananrajn/CuckooSearch,2016-12-31,0.0,0.0,[],{}
+Globalittechnology1,Web-development,0.0,https://github.com/Globalittechnology1/Web-development,2015-07-07,1.0,0.0,[],{}
+tititesfu,Decentralized-Freelance-Marketplace,0.0,https://github.com/tititesfu/Decentralized-Freelance-Marketplace,2023-08-16,1.0,0.0,"['CSS', 'HTML', 'JavaScript']","{'CSS': 0.6351032448377582, 'HTML': 0.3647492625368732, 'JavaScript': 0.00014749262536873156}"
+Evil-Operative,BoA-UPatch,0.0,https://github.com/Evil-Operative/BoA-UPatch,2021-12-04,1.0,0.0,[],{}
+Ankita20891,Movie_Recommendation_System,0.0,https://github.com/Ankita20891/Movie_Recommendation_System,2022-01-07,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+maestroh1git,simple_shell,0.0,https://github.com/maestroh1git/simple_shell,2022-11-09,1.0,0.0,['C'],{'C': 1.0}
+kvs2000,Multilingual-Toxic-Comment-Classification,0.0,https://github.com/kvs2000/Multilingual-Toxic-Comment-Classification,2020-08-04,1.0,2.0,"['Jupyter Notebook', 'C++']","{'Jupyter Notebook': 0.9950898709147059, 'C++': 0.004910129085294052}"
+HarshSachan007,Netflix-Recommendation-System,0.0,https://github.com/HarshSachan007/Netflix-Recommendation-System,2023-08-25,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+pao11901,last-digit,0.0,https://github.com/pao11901/last-digit,2019-01-12,0.0,0.0,[],{}
+health20houston,marshealth,0.0,https://github.com/health20houston/marshealth,2013-09-18,1.0,0.0,[],{}
+odrion413,octo-eureka,0.0,https://github.com/odrion413/octo-eureka,2019-07-24,1.0,0.0,[],{}
+vivek8031,Recommender-System,0.0,https://github.com/vivek8031/Recommender-System,2023-06-29,1.0,0.0,"['Jupyter Notebook', 'Python']","{'Jupyter Notebook': 0.9599011160795434, 'Python': 0.04009888392045661}"
+calvintangtang,BathroomsAtBerkeley,0.0,https://github.com/calvintangtang/BathroomsAtBerkeley,2018-11-03,3.0,0.0,"['Swift', 'Ruby']","{'Swift': 0.9930538922155688, 'Ruby': 0.006946107784431138}"
+vhoyer,sensory-evolution,0.0,https://github.com/vhoyer/sensory-evolution,2022-08-14,1.0,0.0,"['JavaScript', 'Vue', 'CSS', 'HTML']","{'JavaScript': 0.6253975297685083, 'Vue': 0.29324754086236227, 'CSS': 0.05007026107536425, 'HTML': 0.03128466829376526}"
+Ritesh6997,fabbag_2.0,1.0,https://github.com/Ritesh6997/fabbag_2.0,2022-01-23,1.0,0.0,['HTML'],{'HTML': 1.0}
+BAGLAT,Movie-Recommendation-Using-Pyspark,0.0,https://github.com/BAGLAT/Movie-Recommendation-Using-Pyspark,2020-06-03,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+mmyd,Restaurant-recommendation-system,0.0,https://github.com/mmyd/Restaurant-recommendation-system,2020-06-09,1.0,0.0,['Python'],{'Python': 1.0}
+lizbethdiazalcantar,Java-Tic-Tac-Toe-,0.0,https://github.com/lizbethdiazalcantar/Java-Tic-Tac-Toe-,2020-03-05,1.0,0.0,"['Java', 'HTML']","{'Java': 0.9453828828828829, 'HTML': 0.054617117117117114}"
+paribadre,Recommendation-System-for-Yelp-Businesses,0.0,https://github.com/paribadre/Recommendation-System-for-Yelp-Businesses,2020-05-14,1.0,0.0,['Python'],{'Python': 1.0}
+suy1968,Movie_Recommendation-Engine,0.0,https://github.com/suy1968/Movie_Recommendation-Engine,2021-06-30,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+Yogesh2878,Hacknovate-4.0,0.0,https://github.com/Yogesh2878/Hacknovate-4.0,2023-10-16,1.0,0.0,['Python'],{'Python': 1.0}
+safia-faiz02,House-Price-Prediction-,0.0,https://github.com/safia-faiz02/House-Price-Prediction-,2023-07-20,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+msayan36,SWE-Project---Collaborative-Internal-Job-Portal,0.0,https://github.com/msayan36/SWE-Project---Collaborative-Internal-Job-Portal,2022-08-18,1.0,0.0,[],{}
+daleathan,npdm,0.0,https://github.com/daleathan/npdm,2014-07-05,1.0,0.0,[],{}
+for-professional-work-j,KNIME_Deep_Learning-Internship-,0.0,https://github.com/for-professional-work-j/KNIME_Deep_Learning-Internship-,2023-07-25,1.0,0.0,[],{}
+virtuagora,nice-budget,0.0,https://github.com/virtuagora/nice-budget,2019-10-03,28.0,0.0,"['JavaScript', 'CSS', 'Vue', 'PHP', 'HTML']","{'JavaScript': 0.956663328434408, 'CSS': 0.020268217182110814, 'Vue': 0.009437303004727764, 'PHP': 0.009371697505814187, 'HTML': 0.004259453872939209}"
+dunicadavid,CollaborativeCalculationsInDistributedSystems,0.0,https://github.com/dunicadavid/CollaborativeCalculationsInDistributedSystems,2022-02-27,1.0,0.0,"['C', 'Makefile']","{'C': 0.9973955051459777, 'Makefile': 0.002604494854022264}"
+Shubhu0,Amazon-Recommendation-System,0.0,https://github.com/Shubhu0/Amazon-Recommendation-System,2022-06-07,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+akanksh07,Netflix-Prize-Movie-Recommendation-System,0.0,https://github.com/akanksh07/Netflix-Prize-Movie-Recommendation-System,2021-10-14,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+ritumehrotra,Collaborative-Filtering-using-Matrix-Factorization-Neural-Network,0.0,https://github.com/ritumehrotra/Collaborative-Filtering-using-Matrix-Factorization-Neural-Network,2018-10-07,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+deadskull7,Movie-Recommendations-using-Collaborative-Filtering,4.0,https://github.com/deadskull7/Movie-Recommendations-using-Collaborative-Filtering,2018-06-20,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+shriya538,Recommendation_System,0.0,https://github.com/shriya538/Recommendation_System,2020-08-28,1.0,0.0,['Python'],{'Python': 1.0}
+jaddamo,BirdFinder-App,0.0,https://github.com/jaddamo/BirdFinder-App,2020-03-23,1.0,1.0,"['HTML', 'JavaScript', 'CSS']","{'HTML': 0.6459849186400317, 'JavaScript': 0.25439872999073954, 'CSS': 0.09961635136922874}"
+KexingIA,AdamEva2.0,1.0,https://github.com/KexingIA/AdamEva2.0,2021-12-17,1.0,0.0,[],{}
+mirugwe1,Recommendation-Systems,1.0,https://github.com/mirugwe1/Recommendation-Systems,2020-12-21,1.0,0.0,[],{}
+erozonachi,wunderlist-be,1.0,https://github.com/erozonachi/wunderlist-be,2019-07-26,2.0,0.0,[],{}
+ZoiBox,ZoiBox,0.0,https://github.com/ZoiBox/ZoiBox,2021-04-16,1.0,4.0,[],{}
+vineet22h,KKBox-Music-Recommendation-System,0.0,https://github.com/vineet22h/KKBox-Music-Recommendation-System,2021-01-01,1.0,1.0,"['Jupyter Notebook', 'HTML', 'CSS', 'Python', 'JavaScript', 'Dockerfile']","{'Jupyter Notebook': 0.988353649735997, 'HTML': 0.00606372454686504, 'CSS': 0.0019277780450549053, 'Python': 0.0018886887651395788, 'JavaScript': 0.0016725701502231095, 'Dockerfile': 9.358875672034928e-05}"
+Nareshvrao,COLLABORATIVE-FILTERING-USING-THE-NETFLIX-DATA,1.0,https://github.com/Nareshvrao/COLLABORATIVE-FILTERING-USING-THE-NETFLIX-DATA,2021-12-21,1.0,0.0,"['Jupyter Notebook', 'Python']","{'Jupyter Notebook': 0.8329611949491839, 'Python': 0.16703880505081614}"
+kirtesh1405,Project_3---Movielence_case_study,0.0,https://github.com/kirtesh1405/Project_3---Movielence_case_study,2022-09-25,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+Vinaypanwar9,Movielens-Case-Study,0.0,https://github.com/Vinaypanwar9/Movielens-Case-Study,2022-09-24,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+Sfedfcv,redesigned-pancake,54.0,https://github.com/Sfedfcv/redesigned-pancake,2021-05-16,0.0,0.0,[],{}
+giuliaulpiani,SWAQ,1.0,https://github.com/giuliaulpiani/SWAQ,2021-09-09,3.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+FelizardoCaculo,FelizardoCaculo,1.0,https://github.com/FelizardoCaculo/FelizardoCaculo,2022-09-05,1.0,0.0,[],{}
+jettbrains,-L-,34.0,https://github.com/jettbrains/-L-,2019-10-28,1.0,38.0,[],{}
+jitenderthakur,Delinquency-Telecom-Model,0.0,https://github.com/jitenderthakur/Delinquency-Telecom-Model,2021-01-13,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+Masudbro94,python-hacked-mobile-phone-,36.0,https://github.com/Masudbro94/python-hacked-mobile-phone-,2022-06-30,1.0,8.0,[],{}
+JECSCA,Kids-Can-Code,0.0,https://github.com/JECSCA/Kids-Can-Code,2020-12-12,1.0,0.0,[],{}
+TanmayiNandan,Android-Bluetooth-Chat,1.0,https://github.com/TanmayiNandan/Android-Bluetooth-Chat,2019-07-17,1.0,0.0,['Java'],{'Java': 1.0}
+leuz9,Tekki,2.0,https://github.com/leuz9/Tekki,2020-01-31,30.0,0.0,"['TypeScript', 'HTML', 'CSS', 'JavaScript']","{'TypeScript': 0.5855321196567488, 'HTML': 0.19945464752586414, 'CSS': 0.15662843852754832, 'JavaScript': 0.0583847942898388}"
+Aayushi-2808,Cervical_cancer_detection_using_ML,6.0,https://github.com/Aayushi-2808/Cervical_cancer_detection_using_ML,2022-06-18,1.0,0.0,['Jupyter Notebook'],{'Jupyter Notebook': 1.0}
+Saundaryasri26,Architect-,0.0,https://github.com/Saundaryasri26/Architect-,2022-09-22,0.0,0.0,[],{}
+PamyAnnPatrick,FireTruck,1.0,https://github.com/PamyAnnPatrick/FireTruck,2019-08-09,1.0,0.0,[],{}
+vikas044,-What-is-a-PayPal-developer-portal-,0.0,https://github.com/vikas044/-What-is-a-PayPal-developer-portal-,2021-12-23,0.0,0.0,[],{}
+rajnilprasad,Employee-Tracker-,0.0,https://github.com/rajnilprasad/Employee-Tracker-,2020-06-28,2.0,0.0,"['JavaScript', 'TSQL']","{'JavaScript': 0.9494016841483233, 'TSQL': 0.05059831585167676}"
+StevenSJones,EmployeeTrackerTenthEdition,1.0,https://github.com/StevenSJones/EmployeeTrackerTenthEdition,2020-09-07,1.0,0.0,['JavaScript'],{'JavaScript': 1.0}
+ananthastaputra,ananthastaputra,0.0,https://github.com/ananthastaputra/ananthastaputra,2022-05-01,1.0,0.0,[],{}
+ManojKumarPatnaik,Major-project-list,51.0,https://github.com/ManojKumarPatnaik/Major-project-list,2021-09-04,2.0,9.0,[],{}
+SenjuSama2012,SenjuSama2012,1.0,https://github.com/SenjuSama2012/SenjuSama2012,2022-05-01,1.0,1.0,[],{}
