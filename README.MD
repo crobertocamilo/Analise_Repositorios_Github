@@ -13,30 +13,30 @@ Os arquivos [stars1000.csv](https://github.com/crobertocamilo/Analise_Repositori
 <br />
 
 ```markdown
-*Owner*: Pessoa, empresa ou fundação dona do repositório
+Owner: Pessoa, empresa ou fundação dona do repositório
 
-*Name*: Nome do repositório
+Name: Nome do repositório
 
-*URL*: Endereço do repositório, identificador único composto pelo nome do responsável e nome do repositório
+URL: Endereço do repositório, identificador único composto pelo nome do responsável e nome do repositório
 
-*Star*: Número de vezes em que o repositório foi favoritado (marcado com estrela) à data da extração dos dados
+Stars: Número de vezes em que o repositório foi favoritado (marcado com estrela) à data da extração dos dados
 
-*Forks*: Número de vez em que repositório foi copiado por outros usuários para sua área pessoal (feito um *Fork*) à data da extração dos dados
+Forks: Número de vez em que repositório foi copiado por outros usuários para sua área pessoal (feito um *Fork*) à data da extração dos dados
 
-*Branch Count*: Número de *branches* no repositório
+Branch Count: Número de *branches* no repositório
 
-*Created Date*: Data de criação do repositório (formato yyyy-MM-dd)
+Created Date: Data de criação do repositório (formato yyyy-MM-dd)
 
-*Languanges*: Lista de linguagens de programação utilizadas nos arquivos do repositório
+Languanges: Lista de linguagens de programação utilizadas nos arquivos do repositório
 
-*Languages Proportion*: Dicionário contendo o nome da linguagens e sua proporção (porcentagem de linhas de código) no projeto
+Languages Proportion: Dicionário contendo o nome da linguagens e sua proporção (porcentagem de linhas de código) no projeto
 ```
 
 ##
 
 ### Resultados das Análises
 
-As análise realizadas (implentação em código e discussão dos resultados) são apresentadas no (**notebook**)[https://github.com/crobertocamilo/Analise_Repositorios_Github/blob/main/analise.ipynb] Python neste repositório.
+As análise realizadas (implentação em código e discussão dos resultados) são apresentadas no [**notebook**](https://github.com/crobertocamilo/Analise_Repositorios_Github/blob/main/analise.ipynb) Python neste repositório.
 
 <br />
 <div align="center">
